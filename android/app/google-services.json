@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "145304930551",
+    "firebase_url": "https://dinebook-bb137-default-rtdb.firebaseio.com",
+    "project_id": "dinebook-bb137",
+    "storage_bucket": "dinebook-bb137.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145304930551:android:edf30aa7856bca9d6b2bf2",
+        "android_client_info": {
+          "package_name": "com.dinebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPzVYZ_HPHudMSAhS5fU3Ys27Dv_n5XFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145304930551:android:5900cb27b7b07b086b2bf2",
+        "android_client_info": {
+          "package_name": "com.menu_marvel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPzVYZ_HPHudMSAhS5fU3Ys27Dv_n5XFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145304930551:android:b3d1510e694519596b2bf2",
+        "android_client_info": {
+          "package_name": "com.menumarvel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPzVYZ_HPHudMSAhS5fU3Ys27Dv_n5XFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145304930551:android:2575b5d244f25e586b2bf2",
+        "android_client_info": {
+          "package_name": "com.menumarvel1_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPzVYZ_HPHudMSAhS5fU3Ys27Dv_n5XFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145304930551:android:b0b57c491ec6d9bd6b2bf2",
+        "android_client_info": {
+          "package_name": "com.primetiffinadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPzVYZ_HPHudMSAhS5fU3Ys27Dv_n5XFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
