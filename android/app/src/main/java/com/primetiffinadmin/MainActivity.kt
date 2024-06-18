@@ -1,4 +1,4 @@
-package com.primetiffinadmin
+package com.UserTIffinPrime
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
